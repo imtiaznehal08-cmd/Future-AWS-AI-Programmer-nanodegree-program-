@@ -23,17 +23,6 @@ In machine learning, preparing raw data properly is critical to ensure algorithm
 
 ---
 
-## Repository Structure
-
-```text
-Future-AWS-AI-Programmer-nanodegree-program-/
-└── Mini-Project: Mean Normalization and Data Separation/
-    ├── Mean Normalization and Data Separation.ipynb
-    └── README.md
-```
-
----
-
 ## Technologies & Libraries Used
 
 - **Python 3.10+**
