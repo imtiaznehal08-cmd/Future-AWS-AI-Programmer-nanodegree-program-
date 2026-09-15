@@ -1,4 +1,4 @@
-# Stock Data Statistics
+# Pandas-Mini-Project: Stock Data Statistics
 
 ## Project Overview
 *This project was completed as part of the **AWS Future AI Programmer nanodegree program**.* 
@@ -22,9 +22,7 @@ The notebook walks through several key data science operations:
 * **Rolling Statistics**: Calculates a 150-day rolling mean (moving average) for Google's stock.
 * **Visualization**: Utilizes Matplotlib to plot the raw stock price alongside its moving average for clear visual comparison.
 
-## Getting Started
+## Author
 
-To run this project locally, clone the repository and ensure you have Jupyter, Pandas, and Matplotlib installed:
-
-```bash
-git clone [https://github.com/imtiaznehal08-cmd/statistics-from-stock-data.git](https://github.com/imtiaznehal08-cmd/stock-data-statistics.git)
+**Nehal Imtiaz**  
+Udacity Future AWS AI Programmer Nanodegree Scholar

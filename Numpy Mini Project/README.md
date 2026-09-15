@@ -1,4 +1,4 @@
-# Mini-Project: Mean Normalization and Data Separation
+# Numpy-Mini-Project: Mean Normalization and Data Separation
 
 This repository contains a Jupyter Notebook project completed as part of the **Udacity Future AWS AI Programmer Nanodegree Program**. The project demonstrates fundamental data preprocessing and partitioning techniques using Python and NumPy, simulating key workflows required before feeding data into machine learning models.
 
