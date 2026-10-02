@@ -2,6 +2,9 @@
 
 This repository contains the code and model weights for **SentimentScope**, a custom transformer-based sentiment analysis project[cite: 17]. This project was completed as the final project for the **Udacity Future AWS AI Programmer Nanodegree**.
 
+## Note: The model weights file was too large for direct upload. You can download sentimentscope_model.pt here: 
+https://drive.google.com/drive/project/1yLDgmmY66xQNQIc1vaBfOCpYAKO9H2_b?usp=sharing
+
 Developed from the perspective of a Machine Learning Engineer at Cinescope, the goal of this project is to enhance user recommendation systems by accurately classifying IMDB movie reviews as either positive (1) or negative (0)[cite: 17].
 
 ## 📊 Project Overview
@@ -65,4 +68,4 @@ predictions = predictor.predict(custom_reviews)
 for result in predictions:
     print(f"Sentiment: {result['sentiment']} | Review: {result['review']}")
 
-## Note: The model weights file was too large for direct upload. You can download sentimentscope_model.pt here: https://drive.google.com/drive/project/1yLDgmmY66xQNQIc1vaBfOCpYAKO9H2_b?usp=sharing
+
