@@ -64,3 +64,5 @@ predictions = predictor.predict(custom_reviews)
 
 for result in predictions:
     print(f"Sentiment: {result['sentiment']} | Review: {result['review']}")
+
+Note: The model weights file was too large for direct upload. You can download sentimentscope_model.pt here: https://drive.google.com/drive/project/1yLDgmmY66xQNQIc1vaBfOCpYAKO9H2_b?usp=sharing
