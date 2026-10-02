@@ -1,6 +1,6 @@
 # SentimentScope: Sentiment Analysis using Transformers
 
-This repository contains the code and model weights for **SentimentScope**, a custom transformer-based sentiment analysis project[cite: 17]. This project was completed as the final project for the **Udacity Future AWS AI Programmer Nanodegree**.
+This repository contains the code and model weights for **SentimentScope**, a custom transformer-based sentiment analysis project. This project was completed as the final project for the **Udacity Future AWS AI Programmer Nanodegree**.
 
 ## Note: The model weights file was too large for direct upload. You can download sentimentscope_model.pt here: 
 https://drive.google.com/drive/project/1yLDgmmY66xQNQIc1vaBfOCpYAKO9H2_b?usp=sharing
